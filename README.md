@@ -1,6 +1,6 @@
 ﻿
 
-# <div> <img align="center" alt="Coding" width="600" src="./Asset/animation.jpg"> </div>
+# <div> <img align="center" alt="Coding" width="800" border="2px solid white" src="./Asset/animation.jpg"> </div>
 <br>
 &nbsp;
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=F79418&width=435&lines=Hey%2C+I+am+Satish+from+India" alt="Typing SVG" /></a></p>
