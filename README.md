@@ -1,11 +1,9 @@
 ﻿
 
-# <div> <img align="center" alt="Coding" width="800" height="600" border="2px solid white" src="./Asset/animation.jpg"> </div>
-<br>
-&nbsp;
+# <div> <img align="center" alt="Coding" width="500" border="4px solid white" src="./Asset/animation.jpg"> </div>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=30&pause=1000&color=F79418&width=435&lines=Hey%2C+I+am+Satish+from+India" alt="Typing SVG" /></a></p>
  
- <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&pause=1000&color=1EF7B4&center=true&vCenter=true&width=435&lines=+++FrontEnd+Web+Developer+;++C%2B%2B+Pragrammer+;Website+and+Webpages+Designer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&pause=1000&color=1EF7B4&center=true&vCenter=true&width=435&lines=+++FrontEnd+Web+Developer+;++C%2B%2B+Pragrammer+;Website+and+Webpages+Designer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishk67&label=Profile%20views&color=0e75b6&style=flat" alt="satishk67" /> </p>
 
