@@ -21,4 +21,4 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satishk673&show_icons=true&locale=en" alt="satish" /></p>
 <br>
-<p align="center"></p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=satishk67&hide_border=true&border_radius=5.1" alt="GitHub Streak" /></a> </p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=satishk67&theme=dark&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a></p>
