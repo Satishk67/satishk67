@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=20&pause=1000&color=F7F3D6&width=435&lines=%F0%9F%9A%80+Front-End+Developer;%F0%9F%9A%80+C%2B%2B+Programmer;%F0%9F%9A%80+Website+and+Webpage+Designer" alt="Typing SVG" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/piyush02403" target="blank"><img src="https://img.shields.io/twitter/follow/piyush02403?logo=twitter&style=for-the-badge" alt="piyush02403" /></a> </p>
-
- I’m currently learning **React and JavaScript.**
+- 🫥 I’m currently learning **React and JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
