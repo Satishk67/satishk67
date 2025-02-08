@@ -7,12 +7,9 @@
 - 🫥 I’m currently learning **React and JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Satishsinha_k98" target="blank">![image](https://github.com/user-attachments/assets/569c05a6-9474-471e-92b5-779ad5e4253e)</a>
-<a href="https://www.linkedin.com/in/satish-kumar-37086528b/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c3d6569e-8947-4fe4-97d1-870a7497efef
-" alt="staish" height="30" width="40" /></a>
-<a href="https://www.instagram.com/satish_sinha98k/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush_singh2403" height="30" width="40" /></a>
-<a href="https://leetcode.com/Satishk98/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="piyush singh" height="35" width="35" /></a>
+<p align="center">
+ ![image](https://github.com/user-attachments/assets/69d21d77-f547-48e3-8e40-93e06ed6ab6e)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
