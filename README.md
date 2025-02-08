@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Satishsinha_k98" target="blank"><img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="piyush02403" height="35" width="35" /></a>
+<a href="https://x.com/Satishsinha_k98" target="blank">![image](https://github.com/user-attachments/assets/569c05a6-9474-471e-92b5-779ad5e4253e)</a>
 <a href="https://www.linkedin.com/in/satish-kumar-37086528b/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c3d6569e-8947-4fe4-97d1-870a7497efef
 " alt="staish" height="30" width="40" /></a>
 <a href="https://www.instagram.com/satish_sinha98k/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush_singh2403" height="30" width="40" /></a>
