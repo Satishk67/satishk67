@@ -17,8 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=satishk67&theme=dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=satishk67&theme=light&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishk67&show_icons=true&locale=en&layout=compact" alt="satish3" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satishk673&show_icons=true&locale=en" alt="satish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satishk67&show_icons=true&locale=en" alt="satish" /></p>
