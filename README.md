@@ -7,6 +7,8 @@
 - 🫥 I’m currently learning **React and JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
+![image](https://github.com/user-attachments/assets/ea5e04cc-5f23-44fb-96cf-aa4227058db6)
+
 <p align="center">
  ![image](https://github.com/user-attachments/assets/69d21d77-f547-48e3-8e40-93e06ed6ab6e)
 
